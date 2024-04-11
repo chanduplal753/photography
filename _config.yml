@@ -2,7 +2,7 @@
 baseurl: "https://chanduplal753.github.io/photography"
 #baseurl: "" # Comment the above line and uncomment this to test the website locally
 image_fulls_loc: "/images/fulls"
-image_thumbs_loc: "/images/thumbs"
+image_thumbs_loc: "/images/thumbnail"
 google_analytics: "UA-46465113-2"
 
 # UI configs
